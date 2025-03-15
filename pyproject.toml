@@ -1,0 +1,13 @@
+[project]
+name = "laba"
+version = "0.1.0"
+description = "My lab project"
+authors = [
+    { name = "Your Name", email = "your.email@example.com" }
+]
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "ruff>=0.11.0",
+]
