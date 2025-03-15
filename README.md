@@ -1,6 +1,3 @@
-####Игры
-
-
 Игра "НОК":
 [![game1](https://asciinema.org/a/vASWMZ7JFMwSiWOInFl1VV6Vw.svg)](https://asciinema.org/a/vASWMZ7JFMwSiWOInFl1VV6Vw)
 
