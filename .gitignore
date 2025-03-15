@@ -17,3 +17,7 @@ __pycache__/
 
 # Игнорировать скрытые файлы
 .DS_Store
+
+game2.cast
+
+demo.cast
